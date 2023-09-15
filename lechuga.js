@@ -1,2 +1,2 @@
 console.log("lechuga")
-console.log("lechugadas");
+console.log("lechugadass");
